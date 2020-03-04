@@ -1,0 +1,5 @@
+arch:
+  - amd64
+language: minimal
+script:
+  - ./build-zabbix-arm.sh
